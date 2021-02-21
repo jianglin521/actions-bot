@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/language-python-blue.svg">
 </p>
 
-目前包含两个 email 机器人，都是基于 GitHub Actions 实现的
+目前包含两个 email 机器人，都是基于 GitHub Actions 实现的11
 
 - weather-emailbot：定时发送天气邮件，参照了阮一峰老师的一篇教程：[GitHub Actions 教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)
 
